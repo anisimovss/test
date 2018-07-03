@@ -3,3 +3,7 @@
 ################################################################################
 
 /Task1/ConsoleClient/obj/Debug
+/Task1/ConsoleServer/bin/Debug
+/Task1/ConsoleServer/obj/Debug
+/Task1/ServerAndClientLib/obj/Debug
+/Task1/.vs/Task1/v14/.suo
